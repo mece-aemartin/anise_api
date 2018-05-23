@@ -1,2 +1,11 @@
 # anise_api
-RESTful boilerplate
+A RESTful boilerplate built on top of nodejs.
+
+------
+
+##### Tools Used:
+
+- nodemon
+- express
+- mongoose
+
