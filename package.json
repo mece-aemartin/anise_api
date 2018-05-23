@@ -1,0 +1,30 @@
+{
+  "name": "anise_api",
+  "version": "1.0.0",
+  "description": "RESTful boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mece-aemartin/anise_api.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API"
+  ],
+  "author": "Eagan Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mece-aemartin/anise_api/issues"
+  },
+  "homepage": "https://github.com/mece-aemartin/anise_api#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
